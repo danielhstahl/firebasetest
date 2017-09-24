@@ -1,0 +1,5 @@
+export const SET_FIREBASE='SET_FIREBASE'
+export const SET_FIREBASE_CONFIG='SET_FIREBASE_CONFIG'
+export const SET_POST='SET_POST'
+export const SET_USER='SET_USER'
+export const UNSET_USER='UNSET_USER'
